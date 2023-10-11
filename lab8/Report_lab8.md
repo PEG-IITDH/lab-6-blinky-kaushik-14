@@ -39,16 +39,10 @@ UARTFBRD = integer value of  0.16666*64 + 0.5 = 11.
 
 ### Results:
 
-![50](pics/50_percent.jpeg)
-*50 percent duty cycle*
-![45](pics/45_percent.jpeg)
-*45 percent duty cycle*
-![40](pics/40_percent.jpeg)
-*40 percent duty cycle*
-![55](pics/55_percent.jpeg)
-*55 percent duty cycle*
-![60](pics/60_percent.jpeg)
-*60 percent duty cycle*
+![AA](pics/AA.jpeg)
+*transmitted hexadecinal data AA on UART7*
+![F0](pics/F0.jpeg)
+*transmitted hexadecinal data F0 on UART7*
 
 tramsitted data on oscilloscope
  
